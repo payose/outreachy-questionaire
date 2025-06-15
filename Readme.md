@@ -77,3 +77,7 @@ You can also submit templates for other parts of the Outreachy process.
 ---
 
 Good luck with your Outreachy application! 🌍💻✨
+
+
+📌 Disclaimer: This repository contains publicly available Outreachy application questions reformatted for ease of use. No personal application content is included. This project is intended for educational and preparatory use only and is not affiliated with Outreachy.
+
